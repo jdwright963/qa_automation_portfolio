@@ -57,8 +57,8 @@ This test suite covers the following core functionalities of the Swag Labs websi
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd QA_AUTOMATION_PORTFOLIO
+    git clone git@github.com:jdwright963/selenium-pytest-swag-labs.git
+    cd selenium-pytest-swag-labs
     ```
 
 2.  **Create and Activate a Virtual Environment:**
